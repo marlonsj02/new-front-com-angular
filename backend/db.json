@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "usuario": "Marlon",
+      "senha": "minitutor2022",
+      "id": 1
+    },
+    {
+      "usuario": "Ewerton",
+      "senha": "webconferencia3",
+      "id": 2
+    },
+    {
+      "usuario": "teste",
+      "senha": "123",
+      "id": 3
+    }
+  ]
+}
